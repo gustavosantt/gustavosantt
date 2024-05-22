@@ -32,7 +32,7 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Gustavo Henriquee</code>, tenho 21 anos, moro em Santa Luzia sou programador desde os 2023. Sou estudante apaixonado pelo mundo da Desenvolvimento de Software, atualmente estou cursando <code>  Análise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
 
-🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, programação back-end e metodologias ágeis.
+Desejos atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, programação back-end e metodologias ágeis.
 
 Linguagens de Programação: Java, Python, C, JavaScript
 Banco de Dados: MySQL,
