@@ -34,7 +34,7 @@
 
 🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, programação back-end e metodologias ágeis.
 
-Linguagens de Programação: Java, Python, C
+Linguagens de Programação: Java, Python, C, JavaScript
 Banco de Dados: MySQL,
 Metodologias: Scrumn
 Ferramentas: Git, VS Code, Intellij
