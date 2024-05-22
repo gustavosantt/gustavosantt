@@ -30,7 +30,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo Henriquee</code>, tenho 21 anos, moro em Santa Luzia sou programador desde os 2023. Atualmente sou estudante apaixonado pelo mundo da <code> Desenvolvimento de Software, atualmente estou cursando  Análise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
+<i><b>Olá</b> :wave:, sou o <code>Gustavo Henriquee</code>, tenho 21 anos, moro em Santa Luzia sou programador desde os 2023. Sou estudante apaixonado pelo mundo da Desenvolvimento de Software, atualmente estou cursando <code>  Análise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
 
 🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, programação back-end e metodologias ágeis.
 
