@@ -12,6 +12,8 @@
 <tr>
 <td><a href="https://github.com/gustavosantt" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
+ <td><a href="https://mail.google.com/mail/u/0/?pli=1#settings/general" target="_blank"><img src="https://github.com/gustavosantt/Linguagem-de-programacao-Javao/blob/main/Img%20gits/gmail3.png" width="50px" height="50px"/></a>
+</td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/gustavosantt/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
