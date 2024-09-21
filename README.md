@@ -52,7 +52,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 <img align="right" alt="GIF" src="https://github.com/gustavosantt/Linguagem-de-programacao-Javao/blob/main/Img%20gits/GifProgramacao.gif" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<!--<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:-->
 
 <div align="justify">
 
