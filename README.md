@@ -32,12 +32,13 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo Henrique</code>, tenho 21 anos, resido em Santa Luzia sou programador desde os 2023. Sou estudante apaixonado pelo mundo da Desenvolvimento de Software, atualmente estou cursando <code>  Análise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
+<i><b>Olá</b> :wave:, sou o <code>Gustavo Henrique</code>, tenho 23 anos, resido em Santa Luzia sou programador desde os 2023. Sou estudante apaixonado pelo mundo da Desenvolvimento de Software, atualmente estou cursando <code>  Engenharia de Software</code> na <a href="https://uniamerica.br/" target="_blank">Centro Universitário Uniamerica (Descomplica)</a> é <a href="https://newtonpaiva.br/" target="_blant"> Formado em Analise e desenvolvimento de sistemas pela Centro Universitário Newton Paiva</a> 
 
 Desejos atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, programação back-end e metodologias ágeis.
 
-Linguagens de Programação: Java, Python, C, JavaScript
-Banco de Dados: MySQL,
+Linguagens de Programação: JavaScript
+Frameworks: Node.js, React e Bootstrap
+Banco de Dados: MySQL, MongoDb
 Metodologias: Scrumn
 Ferramentas: Git, VS Code, Intellij
 
